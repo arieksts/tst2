@@ -1,0 +1,278 @@
+[
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1520413707116,
+            "changeTime": 1520413707116,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1520413712438,
+            "changeTime": 1520413712438,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1520416005038,
+            "changeTime": 1520416005038,
+            "contentHash": "197c08f333b72e579525238549e140331b4c6106"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/CountryCallout.page",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/CountryCallout.page",
+            "isDirectory": false,
+            "size": 685,
+            "modifiedTime": 1520414471000,
+            "changeTime": 1520414471902,
+            "contentHash": "651eea707d9eee5099d759e1b1cd7da3143bcec2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/CountryCallout.page-meta.xml",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/CountryCallout.page-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1520414320682,
+            "changeTime": 1520414320682,
+            "contentHash": "3af334189de27c01a199d891fe7bee8da206d5b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/ISOtoCodeService.cls",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/ISOtoCodeService.cls",
+            "isDirectory": false,
+            "size": 1140,
+            "modifiedTime": 1520414128990,
+            "changeTime": 1520414128990,
+            "contentHash": "86fffcf2364bf678e542c5be707ff53e18c5e3ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/ISOtoCodeService.cls-meta.xml",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/ISOtoCodeService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1520414008905,
+            "changeTime": 1520414008905,
+            "contentHash": "330cfb9c3d0e5e908701e888a93b9f0a36761281",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1520413653774,
+            "changeTime": 1520413653774,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5",
+        {
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1520413695640,
+            "changeTime": 1520413695640,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/tabs/Sparta.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/tabs/Sparta.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1520416005011,
+            "changeTime": 1520416005011,
+            "contentHash": "643009a9435aafb0fe6abafab758f69021d2bae8"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17732,
+            "modifiedTime": 1520416005024,
+            "changeTime": 1520416005024,
+            "contentHash": "0aad45ad35589e601a5e8e47e8705c67bfc31d0e"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4678,
+            "modifiedTime": 1520416005030,
+            "changeTime": 1520416005030,
+            "contentHash": "f5a0c06703c745ba335d42cb1b7502a80133245b"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5016,
+            "modifiedTime": 1520416005032,
+            "changeTime": 1520416005032,
+            "contentHash": "bdeb88a8789cd404c95359a309e005a8ec62afd9"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4678,
+            "modifiedTime": 1520416005035,
+            "changeTime": 1520416005035,
+            "contentHash": "f5a0c06703c745ba335d42cb1b7502a80133245b"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/permissionsets/Allow.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/permissionsets/Allow.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1520416005036,
+            "changeTime": 1520416005036,
+            "contentHash": "ac7daa3351e9d442c5b1ad870607216a43c54eaf"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/remoteSiteSettings/Groupkt.remoteSite-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/remoteSiteSettings/Groupkt.remoteSite-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 262,
+            "modifiedTime": 1520416005038,
+            "changeTime": 1520416005038,
+            "contentHash": "4b725f33b9c88713a34e18932862c4a7aca48856"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520416005011,
+            "changeTime": 1520416005011,
+            "contentHash": "8aa1f643ebf078af5a4d1c186a5f50aac1a92597"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520416005035,
+            "changeTime": 1520416005035,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520416005036,
+            "changeTime": 1520416005036,
+            "contentHash": "72f370d4da82d9d22274ec28f2a3a6962d15aa80"
+        }
+    ],
+    [
+        "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/remoteSiteSettings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/arieksts/Documents/Projects/Ergo/Deploy/DX/Agris_TST5/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520416005038,
+            "changeTime": 1520416005038,
+            "contentHash": "e402f342299fb04cb76ce208e120dd7b6369d460"
+        }
+    ]
+]
